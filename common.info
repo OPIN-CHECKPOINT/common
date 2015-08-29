@@ -9,7 +9,6 @@ dependencies[] = common
 
 ; Contributed Modules
 dependencies[] = advanced_help
-dependencies[] = composer_manager
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token
