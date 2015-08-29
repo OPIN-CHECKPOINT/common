@@ -14,9 +14,14 @@ dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = features
+dependencies[] = jquery_update
 dependencies[] = libraries
-; dependencies[] = memcache
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = variable
+
+; dependencies[] = expire
+; dependencies[] = boost
+; dependencies[] = purge
+; dependencies[] = memcache
 ; dependencies[] = varnish
