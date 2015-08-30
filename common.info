@@ -13,11 +13,15 @@ dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = features
+dependencies[] = globalredirect
+dependencies[] = modernizr
 dependencies[] = jquery_update
 dependencies[] = libraries
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = variable
+dependencies[] = variable_admin
+dependencies[] = variable_realm
 
 ; dependencies[] = expire
 ; dependencies[] = boost
